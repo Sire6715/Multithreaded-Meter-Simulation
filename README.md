@@ -82,8 +82,8 @@ Technician output is left-aligned. Logger output is indented for visual separati
 
 ```bash
 # Clone the repository
-git clone https://github.com/Sire6715/<repo-name>.git
-cd <repo-name>
+git clone [https://github.com/Sire6715/<repo-name>.git](https://github.com/Sire6715/Multithreaded-Meter-Simulation.git)
+cd Multithreaded-Meter-Simulation
 
 # Run the simulation
 python main.py
