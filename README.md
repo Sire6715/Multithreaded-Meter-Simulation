@@ -51,7 +51,7 @@ This program simulates a real-world scenario where multiple technicians periodic
 
 ---
 
-## 🖥️ Sample Output
+##  Sample Output
 
 ```
 03 TECH #2:  1  2  3
